@@ -1,36 +1,13 @@
-Opt-Out Service / Disappear
-
-
-California Consumer Privacy Act - CCPA
-General Data Protection Regulation - GDPR
-
-When requesting to opt-out and have your information removed from a website, observe the following:
-
-(1) Never provide your driver's license, passport, birth certificate, or other government-issued ID.
-(2) Only provide your social security number or date of birth to trusted entities, like the credit bureaus.
-(3) Most of the big data brokers will opt you out by simply identifying you by your name and address.
-(4) Look for links like "Do Not Sell My Information" at the bottom of a webpage, or "Opt-Out" or "Control Information" next to your data record. These should provide a means to have your data removed.
-(5) Other ways to opt-out are via the website's contact page, via a support email address, or toll-free telephone number.
-(6) Also, check for opt-out instructions or links in the website's privacy policy or terms of service pages.
-(7) Keep in mind that even though your data was removed it may still show for a few days due to caching issues. You may have to reload the page or clear the cache in your browser. In some cases, I even had to request the website clear the search cache on their end.
-(8) If the info shows in Google Search, you can request to have it removed in the Google Search Console.
-
-
-Main Data Broker / People-Search Websites:
-
+https://radaris.com/                          https://radaris.com/control/privacy
+https://www.beenverified.com/                 https://www.beenverified.com/app/optout/search
 https://www.cyberbackgroundchecks.com/        https://www.cyberbackgroundchecks.com/removal
 https://www.instantcheckmate.com/             https://www.instantcheckmate.com/opt-out/
+https://www.intelius.com/                     https://www.intelius.com/opt-out/submit/
+https://www.mylife.com/                       https://www.mylife.com/ccpa/index.pubview
 https://www.peoplefinders.com/                https://www.peoplefinders.com/opt-out
-https://www.beenverified.com/                 https://www.beenverified.com/app/optout/search
+https://www.spokeo.com/                       https://www.spokeo.com/optout
 https://www.truthfinder.com/                  https://www.truthfinder.com/opt-out/
 https://www.whitepages.com/                   https://www.whitepages.com/suppression-requests
-https://www.intelius.com/                     https://www.intelius.com/opt-out/submit/
-https://www.spokeo.com/                       https://www.spokeo.com/optout
-https://www.mylife.com/                       https://www.mylife.com/ccpa/index.pubview
-https://radaris.com/                          https://radaris.com/control/privacy
-
-
-
 
 
 
@@ -52,11 +29,6 @@ https://nuwber.com/                           https://nuwber.com/removal/link
 
 
 
-
-
-
-
-https://411.com/
 https://Acxiom.com/
 https://Allareacodes.com/
 https://Ancestry.com/
@@ -90,8 +62,16 @@ https://Spoke.com/
 https://Telephonedirectories.us/
 https://Truepeoplesearch.com/
 https://USA-People-Search.com/
-https://USSearch.com/
+
+
+
+
 https://Voterrecords.com/
-https://Whitepages.com/
-https://Yatedo.com/
-https://Zabasearch.com/
+
+
+
+
+phone number websites
+
+https://www.truecaller.com/           https://www.truecaller.com/unlisting
+https://www.usphonebook.com/          https://www.usphonebook.com/opt-out
