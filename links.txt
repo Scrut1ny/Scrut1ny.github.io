@@ -1,77 +1,64 @@
-https://radaris.com/                          https://radaris.com/control/privacy
-https://www.beenverified.com/                 https://www.beenverified.com/app/optout/search
-https://www.cyberbackgroundchecks.com/        https://www.cyberbackgroundchecks.com/removal
-https://www.instantcheckmate.com/             https://www.instantcheckmate.com/opt-out/
-https://www.intelius.com/                     https://www.intelius.com/opt-out/submit/
-https://www.mylife.com/                       https://www.mylife.com/ccpa/index.pubview
-https://www.peoplefinders.com/                https://www.peoplefinders.com/opt-out
-https://www.spokeo.com/                       https://www.spokeo.com/optout
-https://www.truthfinder.com/                  https://www.truthfinder.com/opt-out/
-https://www.whitepages.com/                   https://www.whitepages.com/suppression-requests
+https://codebeautify.org/htmlviewer
 
 
 
-https://www.advancedbackgroundchecks.com/     https://www.advancedbackgroundchecks.com/removal
-https://www.allareacodes.com/                 https://www.allareacodes.com/remove_name.htm
-https://alumnius.net/                         https://alumnius.net/opt-out
-https://americaphonebook.com/                 https://americaphonebook.com/contact.php
-https://www.arivify.com/search                https://www.arivify.com/removal
-https://backgroundalert.com/                  https://backgroundalert.com/optout/
-https://backgroundcheck.run/                  https://backgroundcheck.run/ng/control/privacy
-https://centeda.com/                          https://centeda.com/ng/control/privacy
-https://checkpeople.com/                      https://checkpeople.com/do-not-sell-info
-https://clustrmaps.com                        https://clustrmaps.com/bl/opt-out
-https://www.fastpeoplesearch.com/             https://www.fastpeoplesearch.com/removal
-https://freepeopledirectory.com/              https://www.freepeopledirectory.com/optout
-https://homemetry.com/                        https://homemetry.com/control/privacy
+https://www.consumerreports.org/privacy/easy-opt-outs-to-protect-your-privacy-a7017744648/
+https://www.reddit.com/r/privacy/comments/firm8z/list_of_recommended_optout_websites/
+https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+https://simpleoptout.com/
+
+
+Opt Out of the Top Data Brokers:
+
+Acxiom
+Epsilon
+Equifax
+Experian
+Oracle
+PeekYou
+Tapad
+TowerData
+TransUnion
+Quantcast
+
+
+https://optout.networkadvertising.org/
+https://yourdigitalrights.org/
+https://www.youronlinechoices.com/
+
+
+https://instantcheckmate.com/
 https://locatefamily.com/                     https://www.locatefamily.com/removal2.html
-https://nuwber.com/                           https://nuwber.com/removal/link
 
+===========================================================================================
+idk
 
-
-https://Acxiom.com/
-https://Allareacodes.com/
+https://acxiom.com/                           https://isapps.acxiom.com/optout/optout.aspx
 https://Ancestry.com/
-https://Callersmart.com/
-https://Check-caller.com/
-https://CheckThem.com/
-https://Datagovus.com/
-https://DOBSearch.com/
-https://Everify.com/
-https://Familytreenow.com/
-https://Hauziz.com/
-https://IDtrue.com/
-https://Instantcheckmate.com/
-https://Instantpeoplefinder.com/
-https://MyLife.com/
-https://MyRelatives.com/
-https://Number2name.com/
-https://Peekyou.com/
-https://People-finders.ws/
-https://Peoplebyname.com/
-https://PeopleFinder.com/
-https://PeopleLookup.com/
-https://PeopleSmart.com/
-https://PeopleWise.com/
-https://PrivateEye.com/
-https://PublicRecords360.com/
-https://PublicRecords.com/
-https://Publicrecords.directory/
-https://RealDirect.com/
-https://Spoke.com/
-https://Telephonedirectories.us/
-https://Truepeoplesearch.com/
-https://USA-People-Search.com/
+https://opengovus.com/
+
+===========================================================================================
 
 
+https://www.officialusa.com/                  https://www.officialusa.com/opt-out/
 
 
-https://Voterrecords.com/
+===========================================================================================
+house info lookup
 
+https://www.arivify.com/search                https://www.arivify.com/removal
+https://homemetry.com/                        https://homemetry.com/control/privacy
 
+===========================================================================================
 
-
+===========================================================================================
 phone number websites
 
-https://www.truecaller.com/           https://www.truecaller.com/unlisting
-https://www.usphonebook.com/          https://www.usphonebook.com/opt-out
+https://www.truecaller.com/                   https://www.truecaller.com/unlisting
+https://www.usphonebook.com/                  https://www.usphonebook.com/opt-out
+https://www.allareacodes.com/                 https://www.allareacodes.com/remove_name.htm
+https://Callersmart.com/                      https://www.callersmart.com/opt-out
+http://peoplebyname.com/                      http://www.peoplebyname.com/remove.php
+
+
+===========================================================================================
