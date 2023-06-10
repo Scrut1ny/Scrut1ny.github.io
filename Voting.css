@@ -1,15 +1,15 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/-min.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/72745fc75f86069783f43045bebc4f77b56a7eb872eca2fe9979779e6088da329c5ed55becc85b4f888b6ba931ee985152f7886548374eae96d5b7_1280.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 2829px;
+  min-height: 2849px;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
-  margin: 19px auto 0 19px;
+  margin: 34px auto 0 34px;
   padding: 0 15px 0 13px;
 }
 
@@ -20,14 +20,14 @@
 .u-section-1 .u-text-1 {
   font-size: 4.5rem;
   font-weight: 700;
-  margin: -52px 293px 0 158px;
+  margin: -67px 275px 0 176px;
 }
 
 .u-section-1 .u-group-1 {
-  width: 1017px;
+  width: 1083px;
   min-height: 277px;
   height: auto;
-  margin: 36px auto 0 19px;
+  margin: 36px auto 0 34px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -49,7 +49,7 @@
 
 .u-section-1 .u-table-1 {
   width: 338px;
-  margin: -233px 427px 0 auto;
+  margin: -233px 392px 0 auto;
 }
 
 .u-block-d80e-219 {
@@ -109,7 +109,7 @@
 
 .u-section-1 .u-table-2 {
   width: 878px;
-  margin: 75px auto 0 19px;
+  margin: 79px auto 0 34px;
 }
 
 .u-block-d80e-49 {
@@ -1340,7 +1340,7 @@
 
 .u-section-1 .u-table-3 {
   width: 666px;
-  margin: -2347px 323px 60px auto;
+  margin: -2347px 294px 60px auto;
 }
 
 .u-block-d80e-314 {
@@ -1399,7 +1399,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1385px;
+    min-height: 1395px;
   }
 
   .u-section-1 .u-btn-1 {
@@ -1437,7 +1437,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1061px;
+    min-height: 1069px;
   }
 
   .u-section-1 .u-text-1 {
@@ -1464,7 +1464,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 796px;
+    min-height: 802px;
   }
 
   .u-section-1 .u-btn-1 {
@@ -1506,7 +1506,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 501px;
+    min-height: 505px;
   }
 
   .u-section-1 .u-btn-1 {
