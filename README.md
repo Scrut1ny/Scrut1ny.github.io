@@ -1,1 +1,1 @@
-# [LINK](scrut1ny.github.io)
+# [Link](https://scrut1ny.github.io/)
